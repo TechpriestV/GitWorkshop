@@ -1,11 +1,8 @@
 # GitWorkshop
-<BODY>
-    <textarea>
-    En liten workshop i hur man använder git, inriktat på nybörjare av git som har erfarenhet av datorer och terminal fönster sen tidigare.
-    </textarea>
-    <label>
-       ### Vad vi ska prata om
-    </label>
+
+En liten workshop i hur man använder git, inriktat på nybörjare av git som har erfarenhet av datorer och terminal fönster sen tidigare.
+### Vad vi ska prata om
+<body>
     <ul>
         <li>
             Sätta upp git    
@@ -20,4 +17,4 @@
             Bland grenar och gafflar
         </li>
     </ul>
-</BODY>
+</body>
