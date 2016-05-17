@@ -18,3 +18,7 @@ En liten workshop i hur man använder git, inriktat på nybörjare av git som ha
         </li>
     </ul>
 </body>
+
+
+### Sätta upp git
+Har man en linux elle unix dator så är det lätt men flörtar man med windows så blir det lite mera komplisrat.
