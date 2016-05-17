@@ -4,7 +4,7 @@
     En liten workshop i hur man använder git, inriktat på nybörjare av git som har erfarenhet av datorer och terminal fönster sen tidigare.
     </textarea>
     <label>
-        Vad vi ska prata om
+       ### Vad vi ska prata om
     </label>
     <ul>
         <li>
